@@ -115,5 +115,7 @@ We also found an influential point by plotting the diagnostic plot. Since removi
 
 [2]Software: R, package: tidyverse
 
+[3]MLR model, correlation source: STA302
+
 
 
