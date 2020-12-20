@@ -14,6 +14,7 @@ https://github.com/andreaxie2054/STA304-Final-Project
 
 ##Abstract
 
+The result of the MLR model shows that the condition of all facilities is the key to determine the evaluation of an apartment building. Every one level up of the condition of a facility will result in an increase of 1 point in the score of the building.
 
 ##Keywords
 
